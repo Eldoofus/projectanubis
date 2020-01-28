@@ -1,0 +1,9 @@
+type: wall
+name: Large Osmium Wall
+description: A large wall made of osmium
+size: 2
+health: 3680
+requirements: [
+  refos/24
+]
+category: defense
