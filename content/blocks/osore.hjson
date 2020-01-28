@@ -1,6 +1,6 @@
 type: oreBlock
 name: Mythril Ore
 description: Mythril Ore
-itemDrop: Raw Mythril
+itemDrop: rawos
 isLiquid: false
 playerUnmineable: true
