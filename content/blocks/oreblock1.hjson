@@ -4,6 +4,3 @@ description: Mythril Ore
 itemDrop: Raw Mythril
 isLiquid: false
 playerUnmineable: true
-attributes: {
-  array: [0, 0, 0, 0]
-}
