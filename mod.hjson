@@ -1,5 +1,5 @@
 name: "projectanubis"
-displayName: "[gold]Project[grey] Anubis" //what displays in the mod selection menu
+displayName: "[gold]Project [lightgray]Anubis" //what displays in the mod selection menu
 author: "Eldoofus & Esnardo"
 description: "A mod"
 version: "1.0"
