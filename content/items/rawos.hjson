@@ -1,6 +1,6 @@
 type: material
-name: Raw Mythril
-description: A somewhat strong ore,should be made into Refined Mythril
+name: Raw Osmium
+description: A somewhat strong ore,should be made into Refined Osmium
 hardness: 5
 cost: 5
 color: 0000ff
