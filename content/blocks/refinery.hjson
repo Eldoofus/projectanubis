@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: genericCrafter
 name: Osmium Refinery
 description: Refines raw osmium into refined osmium
 size: 2
