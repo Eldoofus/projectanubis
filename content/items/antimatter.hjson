@@ -1,0 +1,6 @@
+type: material
+name: Antimatter
+description: Annihilates matter
+hardness: 5
+cost: 5
+color: 914380
