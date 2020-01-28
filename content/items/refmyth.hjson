@@ -1,0 +1,6 @@
+type: material
+name: Refined Mythril
+description: A strong metal
+hardness: 5
+cost: 5
+color: ff0000
