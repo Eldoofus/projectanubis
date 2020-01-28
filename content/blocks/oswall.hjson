@@ -1,0 +1,8 @@
+type: wall
+name: Osmium Wall
+description: A wall made of osmium
+size: 1
+health: 920
+requirements: [
+  refos/6
+category: defense
