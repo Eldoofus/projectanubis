@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Mythril Refinery
+description: Refines raw mythril into refined mythril
+size: 2
+consumes: {
+  power: 1
+  items: {
+    items: [
+      rawmyth/1
+    ]
+  }
+}
+craftTime: 120
+updateEffect: smeltsmoke
+category: crafting
+outputItem: refmyth/1
