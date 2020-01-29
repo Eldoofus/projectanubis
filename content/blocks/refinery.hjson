@@ -1,15 +1,22 @@
-type: genericCrafter
+type: genericSmelter
 name: Osmium Refinery
 description: Refines raw osmium into refined osmium
 size: 2
 consumes: {
-  power: 1
+  power: 4
   items: {
     items: [
       rawos/1
     ]
   }
+  liquid: {
+    liquid: water
+    amount: 0.8
+  }
 }
+requirements: [
+  copper/1
+]
 craftTime: 120
 updateEffect: smeltsmoke
 category: crafting
