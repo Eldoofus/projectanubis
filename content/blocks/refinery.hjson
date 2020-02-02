@@ -1,7 +1,7 @@
 type: genericSmelter
-name: Osmium Refinery
+name: Osmium Crucible
 description: Refines raw osmium into refined osmium
-size: 2
+size: 3
 consumes: {
   power: 4
   items: {
